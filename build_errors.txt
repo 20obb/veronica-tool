@@ -1,0 +1,19 @@
+﻿C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj : warning NU1603: BypassTool depends on plist-cil (>= 2.3.0) but plist-cil 2.3.0 was not found. An approximate best match of plist-cil 2.3.1 was resolved.
+C:\Users\devil\Documents\bypass\rev\BypassTool\Core\DeviceManager.cs(410,69): error CS1620: Argument 2 must be passed with the 'ref' keyword [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+C:\Users\devil\Documents\bypass\rev\BypassTool\Core\DeviceManager.cs(415,69): error CS1620: Argument 2 must be passed with the 'ref' keyword [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+C:\Users\devil\Documents\bypass\rev\BypassTool\Core\DeviceManager.cs(420,69): error CS1620: Argument 2 must be passed with the 'ref' keyword [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+C:\Users\devil\Documents\bypass\rev\BypassTool\Core\DeviceManager.cs(431,46): error CS1503: Argument 1: cannot convert from 'iMobileDevice.Plist.PlistHandle' to 'nint' [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+C:\Users\devil\Documents\bypass\rev\BypassTool\Utils\ErrorHandler.cs(93,22): error CS8120: The switch case is unreachable. It has already been handled by a previous case or it is impossible to match. [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+
+Build FAILED.
+
+C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj : warning NU1603: BypassTool depends on plist-cil (>= 2.3.0) but plist-cil 2.3.0 was not found. An approximate best match of plist-cil 2.3.1 was resolved.
+C:\Users\devil\Documents\bypass\rev\BypassTool\Core\DeviceManager.cs(410,69): error CS1620: Argument 2 must be passed with the 'ref' keyword [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+C:\Users\devil\Documents\bypass\rev\BypassTool\Core\DeviceManager.cs(415,69): error CS1620: Argument 2 must be passed with the 'ref' keyword [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+C:\Users\devil\Documents\bypass\rev\BypassTool\Core\DeviceManager.cs(420,69): error CS1620: Argument 2 must be passed with the 'ref' keyword [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+C:\Users\devil\Documents\bypass\rev\BypassTool\Core\DeviceManager.cs(431,46): error CS1503: Argument 1: cannot convert from 'iMobileDevice.Plist.PlistHandle' to 'nint' [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+C:\Users\devil\Documents\bypass\rev\BypassTool\Utils\ErrorHandler.cs(93,22): error CS8120: The switch case is unreachable. It has already been handled by a previous case or it is impossible to match. [C:\Users\devil\Documents\bypass\rev\BypassTool\BypassTool.csproj]
+    1 Warning(s)
+    5 Error(s)
+
+Time Elapsed 00:00:09.57
